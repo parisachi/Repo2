@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 16B5-697C
+
+ Directory of D:\Personal_Dev\MyProject
+
+02/03/2018  07:25 PM    <DIR>          .
+02/03/2018  07:25 PM    <DIR>          ..
+02/03/2018  07:25 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  111,215,796,224 bytes free
